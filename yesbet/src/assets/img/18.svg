@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+    <g>
+        <g fill="none" stroke="#5d687e" stroke-width="3px" transform="translate(-956 -1222) translate(956 1222)">
+            <circle cx="22.5" cy="22.5" r="22.5" stroke="none"/>
+            <circle cx="22.5" cy="22.5" r="21"/>
+        </g>
+        <text fill="#5d687e" font-family="OpenSans-Bold, Open Sans" font-size="16px" font-weight="700" transform="translate(-956 -1222) translate(979 1251)">
+            <tspan x="-13.699" y="0">18+</tspan>
+        </text>
+    </g>
+</svg>

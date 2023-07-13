@@ -1,0 +1,355 @@
+{
+    "status": 1,
+    "data": {
+        "fixtures": {
+            "totalCount": 5,
+            "fixtures": [
+                {
+                    "matchId": 20000004663167,
+                    "sportId": 20000000003269,
+                    "sportName": "Overwatch",
+                    "producerId": 200000003,
+                    "matchStatus": null,
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": null,
+                    "simpleTournamentId": 20000000018849,
+                    "tournament": {
+                        "type": "SIMPLE_TOURNAMENT",
+                        "id": 20000000018849,
+                        "sportId": 20000000003269,
+                        "name": "Overwatch League",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 20000000003269,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "StreamURL": null
+                    },
+                    "homeTeamId": 20000000167064,
+                    "awayTeamId": 20000000167262,
+                    "homeTeam": {
+                        "id": 20000000167064,
+                        "name": "Florida Mayhem"
+                    },
+                    "awayTeam": {
+                        "id": 20000000167262,
+                        "name": "Houston Outlaws"
+                    },
+                    "startAt": "2023-07-14T04:00:00",
+                    "eventTime": null,
+                    "marketCount": 1,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 205120652,
+                            "producerId": 200000003,
+                            "specifiers": {
+                                "SpecialBetValue": ""
+                            },
+                            "marketHash": "d836a57caa19096351fda99ade7f92f3",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Match Winner",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 236539110,
+                                    "odds": 3.32,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Florida Mayhem "
+                                },
+                                {
+                                    "outcomeId": 236539111,
+                                    "odds": 1.27,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Houston Outlaws "
+                                }
+                            ]
+                        },
+                        "hcp": null,
+                        "total": null
+                    }
+                },
+                {
+                    "matchId": 20000004663166,
+                    "sportId": 20000000003269,
+                    "sportName": "Overwatch",
+                    "producerId": 200000003,
+                    "matchStatus": null,
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": null,
+                    "simpleTournamentId": 20000000018849,
+                    "tournament": {
+                        "type": "SIMPLE_TOURNAMENT",
+                        "id": 20000000018849,
+                        "sportId": 20000000003269,
+                        "name": "Overwatch League",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 20000000003269,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "StreamURL": null
+                    },
+                    "homeTeamId": 20000000166439,
+                    "awayTeamId": 20000000168109,
+                    "homeTeam": {
+                        "id": 20000000166439,
+                        "name": "Atlanta Reign"
+                    },
+                    "awayTeam": {
+                        "id": 20000000168109,
+                        "name": "London Spitfire"
+                    },
+                    "startAt": "2023-07-14T05:30:00",
+                    "eventTime": null,
+                    "marketCount": 1,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 205120651,
+                            "producerId": 200000003,
+                            "specifiers": {
+                                "SpecialBetValue": ""
+                            },
+                            "marketHash": "2d0db494fe41e28366c3625c5c8cf7a7",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Match Winner",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 236539108,
+                                    "odds": 1.01,
+                                    "prev_odds": null,
+                                    "active": false,
+                                    "outcomeName": "Atlanta Reign "
+                                },
+                                {
+                                    "outcomeId": 236539109,
+                                    "odds": 9.72,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "London Spitfire "
+                                }
+                            ]
+                        },
+                        "hcp": null,
+                        "total": null
+                    }
+                },
+                {
+                    "matchId": 20000004663169,
+                    "sportId": 20000000003269,
+                    "sportName": "Overwatch",
+                    "producerId": 200000003,
+                    "matchStatus": null,
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": null,
+                    "simpleTournamentId": 20000000018849,
+                    "tournament": {
+                        "type": "SIMPLE_TOURNAMENT",
+                        "id": 20000000018849,
+                        "sportId": 20000000003269,
+                        "name": "Overwatch League",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 20000000003269,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "StreamURL": null
+                    },
+                    "homeTeamId": 20000000167200,
+                    "awayTeamId": 20000000159807,
+                    "homeTeam": {
+                        "id": 20000000167200,
+                        "name": "Guangzhou Charge"
+                    },
+                    "awayTeam": {
+                        "id": 20000000159807,
+                        "name": "O2 Blast"
+                    },
+                    "startAt": "2023-07-14T17:00:00",
+                    "eventTime": null,
+                    "marketCount": 1,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 205120654,
+                            "producerId": 200000003,
+                            "specifiers": {
+                                "SpecialBetValue": ""
+                            },
+                            "marketHash": "c3d26098066201463de18d1b051222ce",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Match Winner",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 236539114,
+                                    "odds": 1.21,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Guangzhou Charge "
+                                },
+                                {
+                                    "outcomeId": 236539115,
+                                    "odds": 3.8,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "O2 Blast "
+                                }
+                            ]
+                        },
+                        "hcp": null,
+                        "total": null
+                    }
+                },
+                {
+                    "matchId": 20000004663168,
+                    "sportId": 20000000003269,
+                    "sportName": "Overwatch",
+                    "producerId": 200000003,
+                    "matchStatus": null,
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": null,
+                    "simpleTournamentId": 20000000018849,
+                    "tournament": {
+                        "type": "SIMPLE_TOURNAMENT",
+                        "id": 20000000018849,
+                        "sportId": 20000000003269,
+                        "name": "Overwatch League",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 20000000003269,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "StreamURL": null
+                    },
+                    "homeTeamId": 20000000189120,
+                    "awayTeamId": 20000000159371,
+                    "homeTeam": {
+                        "id": 20000000189120,
+                        "name": "Seoul Infernal"
+                    },
+                    "awayTeam": {
+                        "id": 20000000159371,
+                        "name": "Hangzhou Spark"
+                    },
+                    "startAt": "2023-07-14T18:30:00",
+                    "eventTime": null,
+                    "marketCount": 1,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 205120653,
+                            "producerId": 200000003,
+                            "specifiers": {
+                                "SpecialBetValue": ""
+                            },
+                            "marketHash": "9f3b1853e84186d4f7735a93395cd606",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Match Winner",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 236539112,
+                                    "odds": 1.42,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Seoul Infernal "
+                                },
+                                {
+                                    "outcomeId": 236539113,
+                                    "odds": 2.6,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Hangzhou Spark "
+                                }
+                            ]
+                        },
+                        "hcp": null,
+                        "total": null
+                    }
+                },
+                {
+                    "matchId": 20000004663170,
+                    "sportId": 20000000003269,
+                    "sportName": "Overwatch",
+                    "producerId": 200000003,
+                    "matchStatus": null,
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": null,
+                    "simpleTournamentId": 20000000018849,
+                    "tournament": {
+                        "type": "SIMPLE_TOURNAMENT",
+                        "id": 20000000018849,
+                        "sportId": 20000000003269,
+                        "name": "Overwatch League",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 20000000003269,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "StreamURL": null
+                    },
+                    "homeTeamId": 20000000156868,
+                    "awayTeamId": 20000000156869,
+                    "homeTeam": {
+                        "id": 20000000156868,
+                        "name": "Seoul Dynasty"
+                    },
+                    "awayTeam": {
+                        "id": 20000000156869,
+                        "name": "Shanghai Dragons"
+                    },
+                    "startAt": "2023-07-14T20:00:00",
+                    "eventTime": null,
+                    "marketCount": 1,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 205120655,
+                            "producerId": 200000003,
+                            "specifiers": {
+                                "SpecialBetValue": ""
+                            },
+                            "marketHash": "1b4aa7abe1434dd0617be570e11b8ee6",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Match Winner",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 236539116,
+                                    "odds": 1.27,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Seoul Dynasty "
+                                },
+                                {
+                                    "outcomeId": 236539117,
+                                    "odds": 3.32,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Shanghai Dragons "
+                                }
+                            ]
+                        },
+                        "hcp": null,
+                        "total": null
+                    }
+                }
+            ]
+        }
+    }
+}

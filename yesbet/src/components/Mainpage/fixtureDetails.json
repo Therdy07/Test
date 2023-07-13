@@ -1,0 +1,2855 @@
+{
+    "status": 1,
+    "data": {
+        "fixtureDetail": [{
+            "matchId": 42094993,
+            "sportId": 1,
+            "sportName": "Soccer",
+            "producerId": 3,
+            "matchStatus": "Not started",
+            "eventStatus": "NOT_STARTED",
+            "homeScore": 0,
+            "awayScore": 0,
+            "tournamentId": 853,
+            "simpleTournamentId": null,
+            "tournament": {
+                "type": "TOURNAMENT",
+                "id": 853,
+                "sportId": 1,
+                "name": "Club Friendly Games",
+                "categoryName": null,
+                "countryCode": null,
+                "categoryId": 393,
+                "currentSeasonName": null
+            },
+            "properties": {
+                "Status": 0,
+                "MatchStatus": 0
+            },
+            "homeTeamId": 7886,
+            "awayTeamId": 2403,
+            "homeTeam": {
+                "id": 7886,
+                "name": "FK Slavoj Trebisov"
+            },
+            "awayTeam": {
+                "id": 2403,
+                "name": "1. FC Tatran Presov"
+            },
+            "startAt": "2023-07-05T17:00:00",
+            "eventTime": null,
+            "marketCount": 79,
+            "markets": [
+                {
+                    "marketId": 1,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "709de7927143f5f124908c7fe0a2ebdd",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 4.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 3.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 1
+                    },
+                    "marketHash": "10f43c821ee7790c7eb98a0f14eeafb3",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.615,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (+1)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (-1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "bbe88e9f44b5aa2e7349ebfcffe49145",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0
+                    },
+                    "marketHash": "0d87fceee8577880935d17b642fd47d2",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 3.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (0)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.333,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 14,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "2:0"
+                    },
+                    "marketHash": "42ebbb4392acd7d5af84f7f849376cb3",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap 2:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.38,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (2:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (2:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 5.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (2:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 14,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "1:0"
+                    },
+                    "marketHash": "bcbf959049a7cd79b67879d4dc40c79e",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap 1:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (1:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 3.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (1:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 2.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (1:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 14,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "0:1"
+                    },
+                    "marketHash": "f1321dd8b13d7dd615238ef831221632",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap 0:1",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 9.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (0:1)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 5.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (0:1)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 1.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (0:1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "f9054f2a5476b1e5bbf391d058a74d1b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.615,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 3
+                    },
+                    "marketHash": "3d2b90f883623ff8fd0043f912a968eb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 3"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 3"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 3.5
+                    },
+                    "marketHash": "9716d418403877da4d624e35256e1625",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 3.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.48,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 3.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "a5bff081f53c9792b8fcd8c51c52e5f5",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "dc86755f228a8d27a336051385ad125d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.85,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.364,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "882ef36f7847834314fcb49668c27bbb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 6.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.071,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "aad20df05622f1748ab794d37c7bb33c",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.125,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 5.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "11058534f096923b797ed1a22febe193",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.64,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "3556492f19041b8c62db8a0b95f4206e",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.95,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.35,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 29,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "1c6b7f0663589b43639c787212e9c04f",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 1.615,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 2.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 30,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "a57fd3a9f5a2f3e1e01db3dc9cdf0711",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Which team to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 784,
+                            "odds": 16,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "none"
+                        },
+                        {
+                            "outcomeId": 788,
+                            "odds": 8.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "only FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 790,
+                            "odds": 3.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "only 1. FC Tatran Presov"
+                        },
+                        {
+                            "outcomeId": 792,
+                            "odds": 1.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "both teams"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 21,
+                    "producerId": 3,
+                    "specifiers": {
+                        "variant": "sr:exact_goals:6+"
+                    },
+                    "marketHash": "4a047dc4c930a587b969b4a205737047",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Exact goals",
+                    "outcomes": [
+                        {
+                            "outcomeId": "sr:exact_goals:6+:68",
+                            "odds": 16,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 0
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:69",
+                            "odds": 5.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 1
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:70",
+                            "odds": 3.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 2
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:71",
+                            "odds": 3.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 3
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:72",
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 4
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:73",
+                            "odds": 8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 5
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:74",
+                            "odds": 9.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "6+"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 23,
+                    "producerId": 3,
+                    "specifiers": {
+                        "variant": "sr:exact_goals:3+"
+                    },
+                    "marketHash": "c72c2df919c187a3340986d2b5d2d285",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov exact goals",
+                    "outcomes": [
+                        {
+                            "outcomeId": "sr:exact_goals:3+:88",
+                            "odds": 2.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 0
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:89",
+                            "odds": 2.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 1
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:90",
+                            "odds": 4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 2
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:91",
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3+"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 24,
+                    "producerId": 3,
+                    "specifiers": {
+                        "variant": "sr:exact_goals:3+"
+                    },
+                    "marketHash": "0807ae140609af9c72970a3729b0089e",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov exact goals",
+                    "outcomes": [
+                        {
+                            "outcomeId": "sr:exact_goals:3+:88",
+                            "odds": 5.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 0
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:89",
+                            "odds": 2.95,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 1
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:90",
+                            "odds": 3.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 2
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:91",
+                            "odds": 2.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3+"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 52,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "0492f5ba3f2763468e6c5cc8f6ec82f5",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Highest scoring half",
+                    "outcomes": [
+                        {
+                            "outcomeId": 436,
+                            "odds": 3.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1st half"
+                        },
+                        {
+                            "outcomeId": 438,
+                            "odds": 1.98,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2nd half"
+                        },
+                        {
+                            "outcomeId": 440,
+                            "odds": 3.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "equal"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 31,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "8ebed6b282acf53cbac60698ff1ca53d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 5.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.125,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 32,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "1387ecb069fe0e488e28c2e553fad8a7",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 56,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "508d7dea74934275ff755488e982259f",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov to score in both halves",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 4.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.167,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 57,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "ea37cc6a47af9091a87c8235ed698465",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov to score in both halves",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 58,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "77c27e9016f75eb55b4a1229a5f32a7d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Both halves over 1.5",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 4.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 59,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "6fb7f9edd7c52aa0d3158e3042030357",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Both halves under 1.5",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.364,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 53,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "0453f8c6f3e169e8cf01c7e7a75079bd",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov highest scoring half",
+                    "outcomes": [
+                        {
+                            "outcomeId": 436,
+                            "odds": 3.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1st half"
+                        },
+                        {
+                            "outcomeId": 438,
+                            "odds": 2.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2nd half"
+                        },
+                        {
+                            "outcomeId": 440,
+                            "odds": 2.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "equal"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 54,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "141c24ef379d8ed27bf09b305ce61fcf",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov highest scoring half",
+                    "outcomes": [
+                        {
+                            "outcomeId": 436,
+                            "odds": 3.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1st half"
+                        },
+                        {
+                            "outcomeId": 438,
+                            "odds": 2.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2nd half"
+                        },
+                        {
+                            "outcomeId": 440,
+                            "odds": 2.85,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "equal"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 26,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "bb36e1b0370e99fbaaa157a2ac93af8b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.909,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.833,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 27,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "bcd9f4f25ca8f61b8f9df0e23ef0423b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "FK Slavoj Trebisov odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.68,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 28,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "4501cee53431efbb494df3565750e305",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1. FC Tatran Presov odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.88,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.82,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 45,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "d77d7471442c82647cab9872d3891388",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Correct score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 274,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:0"
+                        },
+                        {
+                            "outcomeId": 276,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:0"
+                        },
+                        {
+                            "outcomeId": 278,
+                            "odds": 21,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:0"
+                        },
+                        {
+                            "outcomeId": 280,
+                            "odds": 51,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:0"
+                        },
+                        {
+                            "outcomeId": 282,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:0"
+                        },
+                        {
+                            "outcomeId": 284,
+                            "odds": 7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:1"
+                        },
+                        {
+                            "outcomeId": 286,
+                            "odds": 6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:1"
+                        },
+                        {
+                            "outcomeId": 288,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:1"
+                        },
+                        {
+                            "outcomeId": 290,
+                            "odds": 29,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:1"
+                        },
+                        {
+                            "outcomeId": 292,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:1"
+                        },
+                        {
+                            "outcomeId": 294,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:2"
+                        },
+                        {
+                            "outcomeId": 296,
+                            "odds": 6.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:2"
+                        },
+                        {
+                            "outcomeId": 298,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:2"
+                        },
+                        {
+                            "outcomeId": 300,
+                            "odds": 29,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:2"
+                        },
+                        {
+                            "outcomeId": 302,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:2"
+                        },
+                        {
+                            "outcomeId": 304,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:3"
+                        },
+                        {
+                            "outcomeId": 306,
+                            "odds": 10,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:3"
+                        },
+                        {
+                            "outcomeId": 308,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:3"
+                        },
+                        {
+                            "outcomeId": 310,
+                            "odds": 41,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:3"
+                        },
+                        {
+                            "outcomeId": 312,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:3"
+                        },
+                        {
+                            "outcomeId": 314,
+                            "odds": 23,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:4"
+                        },
+                        {
+                            "outcomeId": 316,
+                            "odds": 21,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:4"
+                        },
+                        {
+                            "outcomeId": 318,
+                            "odds": 34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:4"
+                        },
+                        {
+                            "outcomeId": 320,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:4"
+                        },
+                        {
+                            "outcomeId": 322,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:4"
+                        },
+                        {
+                            "outcomeId": 324,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "other"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 47,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "192b0b682b5c082b6566044282d44664",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Halftime\/fulltime",
+                    "outcomes": [
+                        {
+                            "outcomeId": 418,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov\/FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 420,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov\/draw"
+                        },
+                        {
+                            "outcomeId": 422,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov\/1. FC Tatran Presov"
+                        },
+                        {
+                            "outcomeId": 424,
+                            "odds": 10,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 426,
+                            "odds": 6.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/draw"
+                        },
+                        {
+                            "outcomeId": 428,
+                            "odds": 5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/1. FC Tatran Presov"
+                        },
+                        {
+                            "outcomeId": 430,
+                            "odds": 51,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov\/FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 432,
+                            "odds": 16,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov\/draw"
+                        },
+                        {
+                            "outcomeId": 434,
+                            "odds": 2.625,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov\/1. FC Tatran Presov"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 37,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "c8fc156cbb41cd66b23aa84063df9cef",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2 & total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 794,
+                            "odds": 15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov & under 1.5"
+                        },
+                        {
+                            "outcomeId": 796,
+                            "odds": 5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov & over 1.5"
+                        },
+                        {
+                            "outcomeId": 798,
+                            "odds": 15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & under 1.5"
+                        },
+                        {
+                            "outcomeId": 800,
+                            "odds": 4.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & over 1.5"
+                        },
+                        {
+                            "outcomeId": 802,
+                            "odds": 9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov & under 1.5"
+                        },
+                        {
+                            "outcomeId": 804,
+                            "odds": 1.909,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov & over 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 35,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "2b876c15e146f9fcd94886c7a83b1783",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2 & both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 78,
+                            "odds": 7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov & yes"
+                        },
+                        {
+                            "outcomeId": 80,
+                            "odds": 8.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov & no"
+                        },
+                        {
+                            "outcomeId": 82,
+                            "odds": 4.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & yes"
+                        },
+                        {
+                            "outcomeId": 84,
+                            "odds": 16,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & no"
+                        },
+                        {
+                            "outcomeId": 86,
+                            "odds": 3.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov & yes"
+                        },
+                        {
+                            "outcomeId": 88,
+                            "odds": 3.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov & no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 818,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "72d74ef00a3ddfe610c6766e09059adc",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Halftime\/fulltime & total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1836,
+                            "odds": 41,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov\/FK Slavoj Trebisov & under 1.5"
+                        },
+                        {
+                            "outcomeId": 1839,
+                            "odds": 29,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/FK Slavoj Trebisov & under 1.5"
+                        },
+                        {
+                            "outcomeId": 1840,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/draw & under 1.5"
+                        },
+                        {
+                            "outcomeId": 1841,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/1. FC Tatran Presov & under 1.5"
+                        },
+                        {
+                            "outcomeId": 1844,
+                            "odds": 23,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov\/1. FC Tatran Presov & under 1.5"
+                        },
+                        {
+                            "outcomeId": 1845,
+                            "odds": 9.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov\/FK Slavoj Trebisov & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1846,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov\/draw & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1847,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov\/1. FC Tatran Presov & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1848,
+                            "odds": 19,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/FK Slavoj Trebisov & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1849,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/draw & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1850,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/1. FC Tatran Presov & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1851,
+                            "odds": 51,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov\/FK Slavoj Trebisov & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1852,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov\/draw & over 1.5"
+                        },
+                        {
+                            "outcomeId": 1853,
+                            "odds": 3.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov\/1. FC Tatran Presov & over 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 60,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "effb2d34e85893ee4f46b53e61b55de5",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - 1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 4.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 2.375,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 2.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 66,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 1
+                    },
+                    "marketHash": "db3fd7b323ae0948873a9416a8df6c44",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.182,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (+1)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 4.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (-1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 66,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "1a12e9066a9923ebf1b7a06c6c789f12",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 66,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0
+                    },
+                    "marketHash": "678cd051fe113ce01f78b2cad50ade03",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (0)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 65,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "1:0"
+                    },
+                    "marketHash": "2ca9778ba50e82ee88ac0a56b3658061",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap 1:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.58,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (1:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 3.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (1:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (1:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 68,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "39e653b1592f14053955961092f9ba4a",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 3.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 68,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1
+                    },
+                    "marketHash": "bae403753d5116c8b767a99d2edab095",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 68,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "327f6fc92209ae03c298e6ebd05284f1",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.375,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.52,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 69,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "59ca6937afcc527eeb9357ecc71f2c66",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.375,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.533,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 69,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "502c578e859753ad3a1f9b1b12e78e9f",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.056,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 69,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "3f284ce020a432b15dd95e4afb69cf4b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.002,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 70,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "f80d91e7f0af35e3937d22924c08f5d7",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - 1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.65,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 70,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "2d62479bb0a46593ac45da517df5f4a0",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - 1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 70,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "2396895e1fd3fa2571a1d70ac6789012",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - 1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 9.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.025,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 75,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "ea32bc655a6ed0a553cc9f441732e892",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 3.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.222,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 76,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "9f45d879aaf8b6ec75d840481d689c7e",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - FK Slavoj Trebisov clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.65,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 77,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "4772b19ca15e40136c152a734ec5e41f",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - 1. FC Tatran Presov clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 1.533,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 2.375,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 74,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "48768d9ab6df233126d59e30d978843f",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 81,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "831b5c1342f81c06b19d12f819fb78bf",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - correct score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 462,
+                            "odds": 3.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:0"
+                        },
+                        {
+                            "outcomeId": 464,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:1"
+                        },
+                        {
+                            "outcomeId": 466,
+                            "odds": 67,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:2"
+                        },
+                        {
+                            "outcomeId": 468,
+                            "odds": 6.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:0"
+                        },
+                        {
+                            "outcomeId": 470,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:0"
+                        },
+                        {
+                            "outcomeId": 472,
+                            "odds": 31,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:1"
+                        },
+                        {
+                            "outcomeId": 474,
+                            "odds": 3.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:1"
+                        },
+                        {
+                            "outcomeId": 476,
+                            "odds": 9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:2"
+                        },
+                        {
+                            "outcomeId": 478,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:2"
+                        },
+                        {
+                            "outcomeId": 480,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "other"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 83,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "6d289f9f875b3df66f4250a5b6ce0c91",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - 1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 4.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 2.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 88,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 1
+                    },
+                    "marketHash": "2972ad64fa8d29569a4a3980bda68bd1",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.286,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (+1)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 3.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (-1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 88,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "ece151a77f977c7cbdaff8d1b2c1ea81",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 88,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0
+                    },
+                    "marketHash": "e46171e5aaecf72af5858ece64b2ecfa",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (0)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "3:0"
+                    },
+                    "marketHash": "5f332d3780d51f198aeec3007ee438ff",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 3:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.025,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (3:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 10,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (3:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 31,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (3:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "2:0"
+                    },
+                    "marketHash": "eb236aa915381bbe6a6f9b2f855717ae",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 2:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.167,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (2:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 5.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (2:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 13,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (2:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "1:0"
+                    },
+                    "marketHash": "7275f5d7f7a312691312dd5a96cef2a8",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 1:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (1:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 3.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (1:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 4.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (1:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "0:1"
+                    },
+                    "marketHash": "612bbb325abcb6e33618fe0161b27c9b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 0:1",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 13,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (0:1)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (0:1)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 1.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (0:1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 90,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1
+                    },
+                    "marketHash": "9ee9660c3bcace46b19dfdb8c47778d9",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.286,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 3.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 90,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "7b79af241ad0ce38d17912250a00348c",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.909,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 90,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2
+                    },
+                    "marketHash": "5ed1d562f5d90b19bba8a3bb0496e829",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.65,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.42,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 91,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "0a024c430cba75f8fc9d4d509ce23706",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.952,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.76,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 91,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "82454ca37abeee2fc6b889c8ff4ae3ce",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 5.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.111,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 91,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "779b23a0ba1225202564b408153247e8",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - FK Slavoj Trebisov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.007,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 92,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "cf122f1b5b2b2ca1232435c9fd8e6e81",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - 1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.42,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.65,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 92,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "5c64f9ad80e41d32805a30eac71dcf7a",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - 1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 92,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "d960723b043c1fbf4dba7f9045158cd8",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - 1. FC Tatran Presov total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.063,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 95,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "4400142cd5cd0fa0a84425c5e7b9a361",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2.85,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.364,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 96,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "e818bb4431f669880d8471e114a9bd25",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - FK Slavoj Trebisov clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2.65,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.42,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 97,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "d2578e808342ccd4c831486485ec41d0",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - 1. FC Tatran Presov clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 1.76,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.952,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 94,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "b9c0aa82148aea64aae55be1c7ee3139",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.909,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 98,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "df839ca01261a5190bd8ff4a84fc0bfc",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - correct score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 546,
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:0"
+                        },
+                        {
+                            "outcomeId": 548,
+                            "odds": 4.333,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:1"
+                        },
+                        {
+                            "outcomeId": 550,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:2"
+                        },
+                        {
+                            "outcomeId": 552,
+                            "odds": 7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:0"
+                        },
+                        {
+                            "outcomeId": 554,
+                            "odds": 6.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:1"
+                        },
+                        {
+                            "outcomeId": 556,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:2"
+                        },
+                        {
+                            "outcomeId": 558,
+                            "odds": 21,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:0"
+                        },
+                        {
+                            "outcomeId": 560,
+                            "odds": 21,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:1"
+                        },
+                        {
+                            "outcomeId": 562,
+                            "odds": 41,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:2"
+                        },
+                        {
+                            "outcomeId": 564,
+                            "odds": 7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "other"
+                        }
+                    ]
+                }
+            ],
+            "mainMarkets": {
+                "winner": {
+                    "marketId": 1,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "709de7927143f5f124908c7fe0a2ebdd",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 4.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 3.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov"
+                        }
+                    ]
+                },
+                "hcp": {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "bbe88e9f44b5aa2e7349ebfcffe49145",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "FK Slavoj Trebisov (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1. FC Tatran Presov (-0.5)"
+                        }
+                    ]
+                },
+                "total": {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 3
+                    },
+                    "marketHash": "3d2b90f883623ff8fd0043f912a968eb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 3"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 3"
+                        }
+                    ]
+                }
+            }
+        }]
+    }
+}

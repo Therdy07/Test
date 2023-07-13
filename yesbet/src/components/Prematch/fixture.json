@@ -1,0 +1,1280 @@
+{
+    "status": 1,
+    "data": {
+        "fixtures": {
+            "totalCount": 706,
+            "fixtures": [
+                {
+                    "matchId": 42094993,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 7886,
+                    "awayTeamId": 2403,
+                    "homeTeam": {
+                        "id": 7886,
+                        "name": "FK Slavoj Trebisov"
+                    },
+                    "awayTeam": {
+                        "id": 2403,
+                        "name": "1. FC Tatran Presov"
+                    },
+                    "startAt": "2023-07-05T17:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "709de7927143f5f124908c7fe0a2ebdd",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 4.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Slavoj Trebisov"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 4,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 1.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "1. FC Tatran Presov"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 0.5
+                            },
+                            "marketHash": "bbe88e9f44b5aa2e7349ebfcffe49145",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Slavoj Trebisov (+0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "1. FC Tatran Presov (-0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3
+                            },
+                            "marketHash": "3d2b90f883623ff8fd0043f912a968eb",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41852317,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 25329,
+                    "awayTeamId": 1929,
+                    "homeTeam": {
+                        "id": 25329,
+                        "name": "Budaorsi SC"
+                    },
+                    "awayTeam": {
+                        "id": 1929,
+                        "name": "BKV Elore"
+                    },
+                    "startAt": "2023-07-05T17:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "b595f62f6e90dd0634f9bfeb27fa7b2e",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.88,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Budaorsi SC"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 4,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 3.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "BKV Elore"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -0.5
+                            },
+                            "marketHash": "ea5bd9ba11ab2cc5990511e2014fb07a",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.85,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Budaorsi SC (-0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.88,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "BKV Elore (+0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3
+                            },
+                            "marketHash": "930bb329f1ea633c010b89e5857b3c56",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41756161,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 7693,
+                    "awayTeamId": 7692,
+                    "homeTeam": {
+                        "id": 7693,
+                        "name": "Zaglebie Sosnowiec"
+                    },
+                    "awayTeam": {
+                        "id": 7692,
+                        "name": "KS Polonia Bytom SA"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "a37d330e55de839b46b2403e9223ee6d",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.52,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Zaglebie Sosnowiec"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 4.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 5.2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "KS Polonia Bytom SA"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -1
+                            },
+                            "marketHash": "9740b77cc79ae6e2225dc24a92780222",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.78,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Zaglebie Sosnowiec (-1)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.96,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "KS Polonia Bytom SA (+1)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3
+                            },
+                            "marketHash": "473342bf4068b648dbb63857553e400f",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41990109,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 44590,
+                    "awayTeamId": 1923,
+                    "homeTeam": {
+                        "id": 44590,
+                        "name": "FC STK 1914 Samorin"
+                    },
+                    "awayTeam": {
+                        "id": 1923,
+                        "name": "WKW ETO FC Gyor"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "b08594594e9e5fb366dc2e6136619605",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FC STK 1914 Samorin"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.7,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 3.2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "WKW ETO FC Gyor"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -0.5
+                            },
+                            "marketHash": "b0e1636ac8e18f34f7ba280d4cbab16a",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FC STK 1914 Samorin (-0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "WKW ETO FC Gyor (+0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3
+                            },
+                            "marketHash": "d6d1c07b1d9fd3936943f4103a6cc628",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.78,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.98,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 42112519,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 5123,
+                    "awayTeamId": 5125,
+                    "homeTeam": {
+                        "id": 5123,
+                        "name": "Kaposvari Rakoczi FC"
+                    },
+                    "awayTeam": {
+                        "id": 5125,
+                        "name": "Pecsi MFC"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "66bf26872d0b3ca1caff2d89487e762d",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 4.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Kaposvari Rakoczi FC"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 4,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 1.64,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Pecsi MFC"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 1
+                            },
+                            "marketHash": "d4139195c9587e58b7483b218c41a671",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Kaposvari Rakoczi FC (+1)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Pecsi MFC (-1)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3
+                            },
+                            "marketHash": "9db23c8de7958fd624d785dfccc7cb39",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41880589,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 2219,
+                    "awayTeamId": 34789,
+                    "homeTeam": {
+                        "id": 2219,
+                        "name": "FC Slovan Liberec"
+                    },
+                    "awayTeam": {
+                        "id": 34789,
+                        "name": "FK Varnsdorf"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 78,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "26170792a34e3c357ac8378d51686d8c",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.333,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FC Slovan Liberec"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 5.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 7.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Varnsdorf"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -1.5
+                            },
+                            "marketHash": "15745983be2d1f408a6f962ee1f31b97",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.86,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FC Slovan Liberec (-1.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.88,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Varnsdorf (+1.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3.5
+                            },
+                            "marketHash": "57f5fada0ea2a60a2b4b7d0026c35305",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.727,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41897729,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 35268,
+                    "awayTeamId": 7734,
+                    "homeTeam": {
+                        "id": 35268,
+                        "name": "RKS Rakow Czestochowa"
+                    },
+                    "awayTeam": {
+                        "id": 7734,
+                        "name": "FC Universitatea Cluj"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "d3b99989e87a9710808d834cceb70b51",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "RKS Rakow Czestochowa"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.9,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 4.4,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FC Universitatea Cluj"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -0.5
+                            },
+                            "marketHash": "8d0725c251c932a2596cb8e7fbc33d6e",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "RKS Rakow Czestochowa (-0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 2.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FC Universitatea Cluj (+0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 2.5
+                            },
+                            "marketHash": "ed1c23c4914927b48dbb3ca6d66510af",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 2.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 2.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 2.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41655075,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 2208,
+                    "awayTeamId": 2211,
+                    "homeTeam": {
+                        "id": 2208,
+                        "name": "FK Teplice"
+                    },
+                    "awayTeam": {
+                        "id": 2211,
+                        "name": "FK Viktoria Zizkov"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "9d9401a608d5933f9cce5f9af1592ab5",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 1.52,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Teplice"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 4.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Viktoria Zizkov"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": -1
+                            },
+                            "marketHash": "d9983dc2415d20096c843bdea0541607",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.8,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Teplice (-1)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 1.95,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Viktoria Zizkov (+1)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3.5
+                            },
+                            "marketHash": "367b8fc9bc162a789e52d2bc975d94cf",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 2,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.75,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 42099079,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Postponed",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 60
+                    },
+                    "homeTeamId": 425695,
+                    "awayTeamId": 5235,
+                    "homeTeam": {
+                        "id": 425695,
+                        "name": "FK Zeleznicar Pancevo"
+                    },
+                    "awayTeam": {
+                        "id": 5235,
+                        "name": "FK \ubcf4\ub77c\uce20 \ubc14\ub0d0\ub8e8\uce74"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "348303575b32454374d98332a90e5cab",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 2.3,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Zeleznicar Pancevo"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.5,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 2.85,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK \ubcf4\ub77c\uce20 \ubc14\ub0d0\ub8e8\uce74"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 0
+                            },
+                            "marketHash": "f70a99c3022483329b35dd6ac383087b",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK Zeleznicar Pancevo (0)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 2.05,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "FK \ubcf4\ub77c\uce20 \ubc14\ub0d0\ub8e8\uce74 (0)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 2.5
+                            },
+                            "marketHash": "51ab0dee7630f79da48b06e6e57e3b04",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 1.95,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 2.5"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.8,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 2.5"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "matchId": 41554935,
+                    "sportId": 1,
+                    "sportName": "Soccer",
+                    "producerId": 3,
+                    "matchStatus": "Not started",
+                    "eventStatus": "NOT_STARTED",
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "tournamentId": 853,
+                    "simpleTournamentId": null,
+                    "tournament": {
+                        "type": "TOURNAMENT",
+                        "id": 853,
+                        "sportId": 1,
+                        "name": "Club Friendly Games",
+                        "categoryName": null,
+                        "countryCode": null,
+                        "categoryId": 393,
+                        "currentSeasonName": null
+                    },
+                    "properties": {
+                        "Status": 0,
+                        "MatchStatus": 0
+                    },
+                    "homeTeamId": 7922,
+                    "awayTeamId": 3117,
+                    "homeTeam": {
+                        "id": 7922,
+                        "name": "Warta Poznan"
+                    },
+                    "awayTeam": {
+                        "id": 3117,
+                        "name": "MKS Pogon Szczecin"
+                    },
+                    "startAt": "2023-07-05T18:00:00",
+                    "eventTime": null,
+                    "marketCount": 79,
+                    "mainMarkets": {
+                        "winner": {
+                            "marketId": 1,
+                            "producerId": 3,
+                            "specifiers": [],
+                            "marketHash": "2a30d03e94e05dfe76a3a98c75454e2c",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "1x2",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1,
+                                    "odds": 3.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Warta Poznan"
+                                },
+                                {
+                                    "outcomeId": 2,
+                                    "odds": 3.6,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "draw"
+                                },
+                                {
+                                    "outcomeId": 3,
+                                    "odds": 2.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "MKS Pogon Szczecin"
+                                }
+                            ]
+                        },
+                        "hcp": {
+                            "marketId": 16,
+                            "producerId": 3,
+                            "specifiers": {
+                                "hcp": 0.5
+                            },
+                            "marketHash": "407f8d7f0fe09326cc1ba1943e902f2f",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Handicap",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 1714,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "Warta Poznan (+0.5)"
+                                },
+                                {
+                                    "outcomeId": 1715,
+                                    "odds": 2.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "MKS Pogon Szczecin (-0.5)"
+                                }
+                            ]
+                        },
+                        "total": {
+                            "marketId": 18,
+                            "producerId": 3,
+                            "specifiers": {
+                                "total": 3
+                            },
+                            "marketHash": "863b1ebc631449df723f860f898dd11c",
+                            "status": 1,
+                            "cashoutStatus": null,
+                            "marketName": "Total",
+                            "outcomes": [
+                                {
+                                    "outcomeId": 12,
+                                    "odds": 2.1,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "over 3"
+                                },
+                                {
+                                    "outcomeId": 13,
+                                    "odds": 1.68,
+                                    "prev_odds": null,
+                                    "active": 1,
+                                    "outcomeName": "under 3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

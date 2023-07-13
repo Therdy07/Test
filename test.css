@@ -1,0 +1,7 @@
+
+    @media screen and (min-width: 1024px) and (max-width: 1480px) {
+      .tablet-header-wrap {
+        display: block;
+      }
+    }
+  

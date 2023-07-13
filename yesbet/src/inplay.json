@@ -1,0 +1,643 @@
+{
+    "status": 1,
+    "data": {
+        "fixtureDetail": {
+            "matchId": 41177105,
+            "sportId": 2,
+            "sportName": "Basketball",
+            "producerId": 1,
+            "matchStatus": "4th quarter",
+            "eventStatus": "LIVE",
+            "homeScore": 70,
+            "awayScore": 76,
+            "tournamentId": 30532,
+            "simpleTournamentId": null,
+            "tournament": {
+                "type": "TOURNAMENT",
+                "id": 30532,
+                "sportId": 2,
+                "name": "Asia Cup Women",
+                "categoryName": null,
+                "countryCode": null,
+                "categoryId": 103,
+                "currentSeasonName": null
+            },
+            "properties": {
+                "AwayScore": 51,
+                "HomeScore": 42,
+                "MatchStatus": 15,
+                "Reporting": 1,
+                "Status": 1,
+                "PeriodScore1_Number": 1,
+                "PeriodScore1_HomeScore": 20,
+                "PeriodScore1_AwayScore": 29,
+                "PeriodScore1_MatchStatusCode": 13,
+                "PeriodScore2_Number": 2,
+                "PeriodScore2_HomeScore": 18,
+                "PeriodScore2_AwayScore": 22,
+                "PeriodScore2_MatchStatusCode": 14,
+                "PeriodScore3_Number": 3,
+                "PeriodScore3_HomeScore": 4,
+                "PeriodScore3_AwayScore": 0,
+                "PeriodScore3_MatchStatusCode": 15,
+                "Clock_MatchTime": "20:59",
+                "Clock_RemainingTime": "19:01",
+                "Clock_RemainingTimeInPeriod": "9:01",
+                "Clock_StoppageTime": null,
+                "Clock_StoppageTimeAnnounced": null,
+                "Clock_Stopped": false
+            },
+            "homeTeamId": 6411,
+            "awayTeamId": 124488,
+            "homeTeam": {
+                "id": 6411,
+                "name": "Chinese Taipei"
+            },
+            "awayTeam": {
+                "id": 124488,
+                "name": "Philippines"
+            },
+            "startAt": "2023-06-28T12:30:00",
+            "eventTime": "6:29",
+            "marketCount": 20,
+            "markets": [
+                {
+                    "marketId": 16,
+                    "producerId": 1,
+                    "specifiers": {
+                        "hcp": 4.5
+                    },
+                    "marketHash": "6f372f58125693eaca763adbb1d9b5da",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.57,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Chinese Taipei (+4.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Philippines (-4.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 1,
+                    "specifiers": {
+                        "hcp": 3.5
+                    },
+                    "marketHash": "d6bfe3f87440f152b4e35334ddb4861d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Chinese Taipei (+3.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Philippines (-3.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 1,
+                    "specifiers": {
+                        "hcp": 2.5
+                    },
+                    "marketHash": "6193b5224b883a55e798d885c4eb20de",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Chinese Taipei (+2.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Philippines (-2.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 171.5
+                    },
+                    "marketHash": "9ade40749ca13e670a4b82420c53b7a2",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 171.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.95,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 171.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 172.5
+                    },
+                    "marketHash": "8974dda52a3fdc4e41632095b69bb6fc",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.95,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 172.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 172.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 173.5
+                    },
+                    "marketHash": "7e5b2c4d1d3411a8f9220206daf9533d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 173.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.57,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 173.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 83.5
+                    },
+                    "marketHash": "302f23b5a6254811803fc6cdaa4229cb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Chinese Taipei total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.57,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 83.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 83.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 84.5
+                    },
+                    "marketHash": "554d71e94c818f7f308209513947aeb9",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Chinese Taipei total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 84.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 84.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 85.5
+                    },
+                    "marketHash": "8e9ab17a9b3ff7ecf7f3c9e82728d6f0",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Chinese Taipei total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.35,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 85.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.52,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 85.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 86.5
+                    },
+                    "marketHash": "e1fd3bfffec3c761a0154940c806bda0",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Philippines total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 86.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 86.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 87.5
+                    },
+                    "marketHash": "903b37d78f68d06bd3be36a6b7c87233",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Philippines total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 87.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 87.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 1,
+                    "specifiers": {
+                        "total": 88.5
+                    },
+                    "marketHash": "41ead1a456bee9eba829c4a6b1748268",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Philippines total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 88.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 88.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 26,
+                    "producerId": 1,
+                    "specifiers": [],
+                    "marketHash": "8116b0f80c96503c4904d893b474c135",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 220,
+                    "producerId": 1,
+                    "specifiers": [],
+                    "marketHash": "071d387faea77da3f9215c1ae295ed97",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Will there be overtime",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 6.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.08,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 235,
+                    "producerId": 1,
+                    "specifiers": {
+                        "quarternr": 4
+                    },
+                    "marketHash": "766011716e8080c8912fb0c45e67d146",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "4th quarter - 1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 1.08,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Chinese Taipei"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 20,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 7.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Philippines"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 303,
+                    "producerId": 1,
+                    "specifiers": {
+                        "quarternr": 4,
+                        "hcp": -6.5
+                    },
+                    "marketHash": "41aea4f7d7fb073a4553f93a865e2473",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "4th quarter - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Chinese Taipei (-6.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Philippines (+6.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 236,
+                    "producerId": 1,
+                    "specifiers": {
+                        "quarternr": 4,
+                        "total": 38.5
+                    },
+                    "marketHash": "48e18966d9f1e0d0cf608379dfbc53ee",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "4th quarter - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.95,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 38.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 38.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 304,
+                    "producerId": 1,
+                    "specifiers": {
+                        "quarternr": 4
+                    },
+                    "marketHash": "d6c155bf73d9b6ea24e2799cf108a2e9",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "4th quarter - odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 756,
+                    "producerId": 1,
+                    "specifiers": {
+                        "quarternr": 4,
+                        "total": 22.5
+                    },
+                    "marketHash": "d0b0ea3449aafaa0cd7da22fd7bda0ae",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "4th quarter - Chinese Taipei total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 22.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 22.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 757,
+                    "producerId": 1,
+                    "specifiers": {
+                        "quarternr": 4,
+                        "total": 15.5
+                    },
+                    "marketHash": "3749dd93ce932f08d1fbdfe41277bcbe",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "4th quarter - Philippines total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 15.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 15.5"
+                        }
+                    ]
+                }
+            ],
+            "mainMarkets": {
+                "winner": {
+                    "marketId": 219,
+                    "producerId": 1,
+                    "specifiers": [],
+                    "marketHash": "2fc05cfc8fea82c450319d8736c70d80",
+                    "status": 0,
+                    "cashoutStatus": null,
+                    "marketName": "Winner (incl. overtime)",
+                    "outcomes": [
+                        {
+                            "outcomeId": 4,
+                            "odds": 2.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Chinese Taipei"
+                        },
+                        {
+                            "outcomeId": 5,
+                            "odds": 1.45,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Philippines"
+                        }
+                    ]
+                },
+                "hcp": null,
+                "total": null
+            }
+        }
+    }
+}

@@ -1,0 +1,3416 @@
+{
+    "status": 1,
+    "data": {
+        "fixtureDetail": [{
+            "matchId": 38186111,
+            "sportId": 1,
+            "sportName": "Soccer",
+            "producerId": 3,
+            "matchStatus": "Not started",
+            "eventStatus": "NOT_STARTED",
+            "homeScore": 0,
+            "awayScore": 0,
+            "tournamentId": 242,
+            "simpleTournamentId": null,
+            "tournament": {
+                "type": "TOURNAMENT",
+                "id": 242,
+                "sportId": 1,
+                "name": "Major League Soccer",
+                "categoryName": null,
+                "countryCode": "USA",
+                "categoryId": 26,
+                "currentSeasonName": null
+            },
+            "properties": {
+                "Status": 0,
+                "MatchStatus": 0
+            },
+            "homeTeamId": 21825,
+            "awayTeamId": 22009,
+            "homeTeam": {
+                "id": 21825,
+                "name": "San Jose Earthquakes"
+            },
+            "awayTeam": {
+                "id": 22009,
+                "name": "Seattle Sounders"
+            },
+            "startAt": "2023-07-13T11:30:00",
+            "eventTime": null,
+            "marketCount": 98,
+            "markets": [
+                {
+                    "marketId": 1,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "6d7643c28f13c138b5f956e57f9795ec",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 2.45,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 3.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "6d604764a122df9ce883814c47051148",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.444,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0
+                    },
+                    "marketHash": "e6570c2022a0e3116827c2b8e9629f79",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.76,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.98,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": -0.5
+                    },
+                    "marketHash": "d7efa353715dd720bbedd456959d105d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (-0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.533,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (+0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 14,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "1:0"
+                    },
+                    "marketHash": "043fcf656d5be0aa5bdfa8e0f093a1a9",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap 1:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.42,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (1:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 4.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (1:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 5.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (1:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 14,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "0:1"
+                    },
+                    "marketHash": "d056e3791fcfd1f921f06409f5bc3050",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap 0:1",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0:1)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 4.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (0:1)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 1.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0:1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 14,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "0:2"
+                    },
+                    "marketHash": "d5ad333af0eec0d98edccb42799eeccb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap 0:2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0:2)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 6.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (0:2)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 1.154,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0:2)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2
+                    },
+                    "marketHash": "73635679c94ccc2ea399c39d0310df56",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.444,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "9aa808d9c8ba8c954a19b07ce897b183",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.88,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.86,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 3
+                    },
+                    "marketHash": "93459bd704f86c76500e6718d9adb5f1",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 3"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.48,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 3"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "a04e4422c4451e706332c40b33d91ee8",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 3.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "8082c1662f71b148d2f8819dd5e27b94",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.571,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 19,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "9ce8da9620fb55cf6c2be4b14d5fa1bb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.143,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "609ae8fe109c2c101f25dca2e0389698",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 3.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "0bf70f99c8833523a7eaf9b5510c7559",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.45,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 20,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "ab9ed64e5fa1e1b5e9652a94971324f2",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 5.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.118,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 29,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "d0305e7bfb6f4ebf6300981172c00c87",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 1.68,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 30,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "c39335b9283f5893fb3d78a82612337e",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Which team to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 784,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "none"
+                        },
+                        {
+                            "outcomeId": 788,
+                            "odds": 4.333,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "only San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 790,
+                            "odds": 5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "only Seattle Sounders"
+                        },
+                        {
+                            "outcomeId": 792,
+                            "odds": 1.667,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "both teams"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 8,
+                    "producerId": 3,
+                    "specifiers": {
+                        "goalnr": 1
+                    },
+                    "marketHash": "46ece8704a3a689bd8679e8a35f605a6",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st goal",
+                    "outcomes": [
+                        {
+                            "outcomeId": 6,
+                            "odds": 1.909,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 7,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "none"
+                        },
+                        {
+                            "outcomeId": 8,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 9,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "c458dfe8ef77d244e51c134d2985262b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Last goal",
+                    "outcomes": [
+                        {
+                            "outcomeId": 6,
+                            "odds": 1.909,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 7,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "none"
+                        },
+                        {
+                            "outcomeId": 8,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 21,
+                    "producerId": 3,
+                    "specifiers": {
+                        "variant": "sr:exact_goals:6+"
+                    },
+                    "marketHash": "2346ea931052597e14c516ec86c615cb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Exact goals",
+                    "outcomes": [
+                        {
+                            "outcomeId": "sr:exact_goals:6+:68",
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 0
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:69",
+                            "odds": 4.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 1
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:70",
+                            "odds": 3.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 2
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:71",
+                            "odds": 3.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 3
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:72",
+                            "odds": 5.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 4
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:73",
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 5
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:6+:74",
+                            "odds": 15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "6+"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 23,
+                    "producerId": 3,
+                    "specifiers": {
+                        "variant": "sr:exact_goals:3+"
+                    },
+                    "marketHash": "85b5b94471df6d541f30bc733c4924f3",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes exact goals",
+                    "outcomes": [
+                        {
+                            "outcomeId": "sr:exact_goals:3+:88",
+                            "odds": 3.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 0
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:89",
+                            "odds": 2.45,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 1
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:90",
+                            "odds": 3.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 2
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:91",
+                            "odds": 5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3+"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 24,
+                    "producerId": 3,
+                    "specifiers": {
+                        "variant": "sr:exact_goals:3+"
+                    },
+                    "marketHash": "21d91be4f612d80ccd2ecddda8d44436",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders exact goals",
+                    "outcomes": [
+                        {
+                            "outcomeId": "sr:exact_goals:3+:88",
+                            "odds": 3.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 0
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:89",
+                            "odds": 2.375,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 1
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:90",
+                            "odds": 3.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": 2
+                        },
+                        {
+                            "outcomeId": "sr:exact_goals:3+:91",
+                            "odds": 5.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3+"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 52,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "dc3aac9f7c270d498c4e06155df28e67",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Highest scoring half",
+                    "outcomes": [
+                        {
+                            "outcomeId": 436,
+                            "odds": 3.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1st half"
+                        },
+                        {
+                            "outcomeId": 438,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2nd half"
+                        },
+                        {
+                            "outcomeId": 440,
+                            "odds": 3.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "equal"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 31,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "a280c69ec27dffe10b0fda8b8e72570b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 3.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 32,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "ce8f25a645b8a7544d675266e3c70d87",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 3.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 56,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "6ffd9bb8dee2757220e68d06ddc874c1",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes to score in both halves",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 3.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 57,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "792fb2ae8968cd0b10f869c228f24b6b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders to score in both halves",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 3.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.222,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 58,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "ae9be2abf1bac4faf3761bbf4b14d9d3",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Both halves over 1.5",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 5.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.125,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 59,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "eecfcb15db3648bfc5e608b1efc1a3f0",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Both halves under 1.5",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 53,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "0d853d062ca3e8fa190445f15f246348",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes highest scoring half",
+                    "outcomes": [
+                        {
+                            "outcomeId": 436,
+                            "odds": 3.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1st half"
+                        },
+                        {
+                            "outcomeId": 438,
+                            "odds": 2.45,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2nd half"
+                        },
+                        {
+                            "outcomeId": 440,
+                            "odds": 2.375,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "equal"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 54,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "b20dcb85cdcede751b168054d96f8cf5",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders highest scoring half",
+                    "outcomes": [
+                        {
+                            "outcomeId": 436,
+                            "odds": 3.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1st half"
+                        },
+                        {
+                            "outcomeId": 438,
+                            "odds": 2.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2nd half"
+                        },
+                        {
+                            "outcomeId": 440,
+                            "odds": 2.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "equal"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 26,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "be8f62b0543c4e7c5dee5f81f72f30cb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.94,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 27,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "0e3d41076c6920812858078b2aad4957",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "San Jose Earthquakes odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.96,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.76,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 28,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "8ed15be5740a055473fe38e537d35d22",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Seattle Sounders odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.98,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 45,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "3439791002dba1b05da74346bfb20732",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Correct score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 274,
+                            "odds": 8.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:0"
+                        },
+                        {
+                            "outcomeId": 276,
+                            "odds": 7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:0"
+                        },
+                        {
+                            "outcomeId": 278,
+                            "odds": 9.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:0"
+                        },
+                        {
+                            "outcomeId": 280,
+                            "odds": 21,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:0"
+                        },
+                        {
+                            "outcomeId": 282,
+                            "odds": 61,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:0"
+                        },
+                        {
+                            "outcomeId": 284,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:1"
+                        },
+                        {
+                            "outcomeId": 286,
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:1"
+                        },
+                        {
+                            "outcomeId": 288,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:1"
+                        },
+                        {
+                            "outcomeId": 290,
+                            "odds": 16,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:1"
+                        },
+                        {
+                            "outcomeId": 292,
+                            "odds": 41,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:1"
+                        },
+                        {
+                            "outcomeId": 294,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:2"
+                        },
+                        {
+                            "outcomeId": 296,
+                            "odds": 8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:2"
+                        },
+                        {
+                            "outcomeId": 298,
+                            "odds": 10,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:2"
+                        },
+                        {
+                            "outcomeId": 300,
+                            "odds": 23,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:2"
+                        },
+                        {
+                            "outcomeId": 302,
+                            "odds": 67,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:2"
+                        },
+                        {
+                            "outcomeId": 304,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:3"
+                        },
+                        {
+                            "outcomeId": 306,
+                            "odds": 19,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:3"
+                        },
+                        {
+                            "outcomeId": 308,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:3"
+                        },
+                        {
+                            "outcomeId": 310,
+                            "odds": 51,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:3"
+                        },
+                        {
+                            "outcomeId": 312,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:3"
+                        },
+                        {
+                            "outcomeId": 314,
+                            "odds": 81,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:4"
+                        },
+                        {
+                            "outcomeId": 316,
+                            "odds": 51,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:4"
+                        },
+                        {
+                            "outcomeId": 318,
+                            "odds": 81,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:4"
+                        },
+                        {
+                            "outcomeId": 320,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "3:4"
+                        },
+                        {
+                            "outcomeId": 322,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "4:4"
+                        },
+                        {
+                            "outcomeId": 324,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "other"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 47,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "32f91a2798bc36ff362f94788b7d7eaa",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Halftime\/fulltime",
+                    "outcomes": [
+                        {
+                            "outcomeId": 418,
+                            "odds": 4.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 420,
+                            "odds": 15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/draw"
+                        },
+                        {
+                            "outcomeId": 422,
+                            "odds": 34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/Seattle Sounders"
+                        },
+                        {
+                            "outcomeId": 424,
+                            "odds": 6.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 426,
+                            "odds": 5.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/draw"
+                        },
+                        {
+                            "outcomeId": 428,
+                            "odds": 6.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/Seattle Sounders"
+                        },
+                        {
+                            "outcomeId": 430,
+                            "odds": 34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 432,
+                            "odds": 15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/draw"
+                        },
+                        {
+                            "outcomeId": 434,
+                            "odds": 4.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 37,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 3.5
+                    },
+                    "marketHash": "0d9b013b4ae24578c9f174091cd2ea23",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2 & total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 794,
+                            "odds": 3.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes & under 3.5"
+                        },
+                        {
+                            "outcomeId": 796,
+                            "odds": 7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes & over 3.5"
+                        },
+                        {
+                            "outcomeId": 798,
+                            "odds": 4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & under 3.5"
+                        },
+                        {
+                            "outcomeId": 800,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & over 3.5"
+                        },
+                        {
+                            "outcomeId": 802,
+                            "odds": 3.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders & under 3.5"
+                        },
+                        {
+                            "outcomeId": 804,
+                            "odds": 8.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders & over 3.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 35,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "0ee6b9599d049524e7f4f399a6de73df",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2 & both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 78,
+                            "odds": 4.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes & yes"
+                        },
+                        {
+                            "outcomeId": 80,
+                            "odds": 4.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes & no"
+                        },
+                        {
+                            "outcomeId": 82,
+                            "odds": 4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & yes"
+                        },
+                        {
+                            "outcomeId": 84,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw & no"
+                        },
+                        {
+                            "outcomeId": 86,
+                            "odds": 5.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders & yes"
+                        },
+                        {
+                            "outcomeId": 88,
+                            "odds": 4.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders & no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 818,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "7a8864fac51a6fc2ffc4ff896ef8e198",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Halftime\/fulltime & total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1836,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/San Jose Earthquakes & under 2.5"
+                        },
+                        {
+                            "outcomeId": 1837,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/draw & under 2.5"
+                        },
+                        {
+                            "outcomeId": 1839,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/San Jose Earthquakes & under 2.5"
+                        },
+                        {
+                            "outcomeId": 1840,
+                            "odds": 6.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/draw & under 2.5"
+                        },
+                        {
+                            "outcomeId": 1841,
+                            "odds": 13,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/Seattle Sounders & under 2.5"
+                        },
+                        {
+                            "outcomeId": 1843,
+                            "odds": 29,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/draw & under 2.5"
+                        },
+                        {
+                            "outcomeId": 1844,
+                            "odds": 13,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/Seattle Sounders & under 2.5"
+                        },
+                        {
+                            "outcomeId": 1845,
+                            "odds": 6.6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/San Jose Earthquakes & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1846,
+                            "odds": 34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/draw & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1847,
+                            "odds": 41,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes\/Seattle Sounders & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1848,
+                            "odds": 15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/San Jose Earthquakes & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1849,
+                            "odds": 34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/draw & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1850,
+                            "odds": 16,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw\/Seattle Sounders & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1851,
+                            "odds": 34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/San Jose Earthquakes & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1852,
+                            "odds": 34,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/draw & over 2.5"
+                        },
+                        {
+                            "outcomeId": 1853,
+                            "odds": 8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders\/Seattle Sounders & over 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 60,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "c2d381732714e2332732b02d9e933630",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - 1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 3.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 2.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 3.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 66,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "61dca2ca6fe3a7242d371eef348db0e4",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 3.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 66,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0
+                    },
+                    "marketHash": "f228adf96b77f17da11b6a131e4be4c0",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.78,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.94,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 66,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": -0.5
+                    },
+                    "marketHash": "da7ceff0869b15a145ff8ed72b6c1165",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.95,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (-0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.35,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (+0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 65,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "0:1"
+                    },
+                    "marketHash": "ed3356d4b853edce2b5e9bb5eff097c6",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - handicap 0:1",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 10,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0:1)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 3.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (0:1)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 1.333,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0:1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 68,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "1164e689fc4e9fd75d31d6e676433353",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 68,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1
+                    },
+                    "marketHash": "1a50d2b05076aa2423895c15d793b383",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.84,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.86,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 68,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "eb1e9eea11a47c65adee2519349f989f",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 69,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "e16041d60e8b9846f1e0c494536c8410",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.68,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 69,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "39c308554cba7eb9c01dd98938b3aa1d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 6,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 69,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "d0479a7403945c2c4c8df84d4a0d28ec",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.006,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 70,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "a8bf11e6e25792ae79e2adc1eed242d0",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.64,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 70,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "7d630a476d9d9a3253175c84b966b3fe",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 6.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.083,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 70,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "feada51f21fa3bf7ea5293e0164939c4",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.004,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 75,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "0e3a3615e9c8ef644f51309c168ffebe",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 4.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.182,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 76,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "32f9bb17f6ad80fb0ae1cdb69ebb417c",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - San Jose Earthquakes clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 1.64,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 2.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 77,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "21f102ef0524eb82358427c5ef32d215",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - Seattle Sounders clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 1.68,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 74,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "c0e9a5f5fbf81fa50ee14e3443ae12c7",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.68,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 81,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "34981b362e97ec917a1082e57188a008",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - correct score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 462,
+                            "odds": 2.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:0"
+                        },
+                        {
+                            "outcomeId": 464,
+                            "odds": 8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:1"
+                        },
+                        {
+                            "outcomeId": 466,
+                            "odds": 81,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:2"
+                        },
+                        {
+                            "outcomeId": 468,
+                            "odds": 4.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:0"
+                        },
+                        {
+                            "outcomeId": 470,
+                            "odds": 15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:0"
+                        },
+                        {
+                            "outcomeId": 472,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:1"
+                        },
+                        {
+                            "outcomeId": 474,
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:1"
+                        },
+                        {
+                            "outcomeId": 476,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:2"
+                        },
+                        {
+                            "outcomeId": 478,
+                            "odds": 26,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:2"
+                        },
+                        {
+                            "outcomeId": 480,
+                            "odds": 19,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "other"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 83,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "9403da3e3eff7bbb10fd39b3fbf47205",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - 1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 2.7,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 2.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 88,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "672ea7d4f0b952c4f1c8a8f6e1f5df0c",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.364,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 88,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0
+                    },
+                    "marketHash": "69abfe354b31ffdb9a9d5e1045be2138",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.78,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.94,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 88,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": -0.5
+                    },
+                    "marketHash": "2ea3b28cdde12817c741be8b0aec4543",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.65,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (-0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.42,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (+0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "2:0"
+                    },
+                    "marketHash": "02b191c16b9a7ad289870ac8c800f1f9",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 2:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.056,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (2:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (2:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 29,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (2:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "1:0"
+                    },
+                    "marketHash": "a9b33d12e92028a26c01869b0c735722",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 1:0",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 1.35,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (1:0)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 3.9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (1:0)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 9,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (1:0)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "0:2"
+                    },
+                    "marketHash": "8073e6f0a769a4697aba66fe8c35d0b3",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 0:2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 23,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0:2)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (0:2)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 1.071,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0:2)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 87,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": "0:1"
+                    },
+                    "marketHash": "704a7a7bcbd121bf3dbf1b73238244b8",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - handicap 0:1",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1711,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0:1)"
+                        },
+                        {
+                            "outcomeId": 1712,
+                            "odds": 3.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw (0:1)"
+                        },
+                        {
+                            "outcomeId": 1713,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0:1)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 90,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1
+                    },
+                    "marketHash": "0b940dd8011deb46310ab4e57e0210fb",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 90,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "316585bdca977c22ae955b962076fd0a",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.05,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.68,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 90,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2
+                    },
+                    "marketHash": "5da6abf4b3d17dd6f85b4ca35a0f1c76",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 3.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.286,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 91,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "5874ef1a622a6a41af239baa147cf63a",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 91,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "effc6d7df4d679fb403089035c266817",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 4.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.167,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 91,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "86327999d226b5fb0456ad9fe6b745ef",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - San Jose Earthquakes total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 10,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.02,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 92,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 0.5
+                    },
+                    "marketHash": "6c65a89385a57284688e020ef2b58974",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.78,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 0.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.92,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 0.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 92,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 1.5
+                    },
+                    "marketHash": "d18da20d63ea2d227681ec539e4a3b29",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 4.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 1.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 1.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 92,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "e5b7a59cbda24d4b9fe8f8d81cc770c6",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - Seattle Sounders total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 11,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.015,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 95,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "19d84159bc7f9c3d24df580c79efde71",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - both teams to score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 3.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.32,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 96,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "d254f92cf29c482d615a2feb4ee3b895",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - San Jose Earthquakes clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 1.92,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.78,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 97,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "5634ef273160060448a00f1c76ec48b3",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - Seattle Sounders clean sheet",
+                    "outcomes": [
+                        {
+                            "outcomeId": 74,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "yes"
+                        },
+                        {
+                            "outcomeId": 76,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "no"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 94,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "d2369917544d4f2e622e915f901b8160",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - odd\/even",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.94,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.78,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 84,
+                    "producerId": 3,
+                    "specifiers": {
+                        "goalnr": 1
+                    },
+                    "marketHash": "86f42c2e96972647661b0749c307415c",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - 1st goal",
+                    "outcomes": [
+                        {
+                            "outcomeId": 6,
+                            "odds": 2.25,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 7,
+                            "odds": 4.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "none"
+                        },
+                        {
+                            "outcomeId": 8,
+                            "odds": 2.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 98,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "589f7dd5e76f0b2437c62da4dfea1ddc",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "2nd half - correct score",
+                    "outcomes": [
+                        {
+                            "outcomeId": 546,
+                            "odds": 4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:0"
+                        },
+                        {
+                            "outcomeId": 548,
+                            "odds": 5.2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:1"
+                        },
+                        {
+                            "outcomeId": 550,
+                            "odds": 13,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "0:2"
+                        },
+                        {
+                            "outcomeId": 552,
+                            "odds": 4.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:0"
+                        },
+                        {
+                            "outcomeId": 554,
+                            "odds": 6.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:1"
+                        },
+                        {
+                            "outcomeId": 556,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "1:2"
+                        },
+                        {
+                            "outcomeId": 558,
+                            "odds": 12,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:0"
+                        },
+                        {
+                            "outcomeId": 560,
+                            "odds": 17,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:1"
+                        },
+                        {
+                            "outcomeId": 562,
+                            "odds": 51,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "2:2"
+                        },
+                        {
+                            "outcomeId": 564,
+                            "odds": 10,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "other"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 162,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "cad619cf6d6589c49817edb21db53e46",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Corner 1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 7.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 2.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 165,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "9927e92c62a8f4bb92a1a0669ade3c85",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Corner handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.46,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 165,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": -0.5
+                    },
+                    "marketHash": "1a933d967510ef3d926cfae3f782f069",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Corner handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (-0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.98,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (+0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 165,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": -1.5
+                    },
+                    "marketHash": "9d7f9e2df346d743995100c879640858",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Corner handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.15,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (-1.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.64,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (+1.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 166,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 8.5
+                    },
+                    "marketHash": "cd925ab61e111d5579424901b8b975fa",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total corners",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.46,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 8.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 8.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 166,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 9.5
+                    },
+                    "marketHash": "1ab37a39a60564f237412dfc495b31ab",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total corners",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.727,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 9.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 9.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 166,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 10.5
+                    },
+                    "marketHash": "e1e70086c1db9be70275255a274f4398",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total corners",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.1,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 10.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.64,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 10.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 163,
+                    "producerId": 3,
+                    "specifiers": {
+                        "cornernr": 1
+                    },
+                    "marketHash": "afd3e8099487eeddad3baffa32b55e3d",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st corner",
+                    "outcomes": [
+                        {
+                            "outcomeId": 6,
+                            "odds": 1.667,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 7,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "none"
+                        },
+                        {
+                            "outcomeId": 8,
+                            "odds": 1.952,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 164,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "2163efe7c03ec97d2a93dfd3539c5ecd",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Last corner",
+                    "outcomes": [
+                        {
+                            "outcomeId": 6,
+                            "odds": 1.667,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 7,
+                            "odds": 101,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "none"
+                        },
+                        {
+                            "outcomeId": 8,
+                            "odds": 1.952,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 172,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "ccf8de92927a3adeb943b6d6a3dd0188",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Odd\/even corners",
+                    "outcomes": [
+                        {
+                            "outcomeId": 70,
+                            "odds": 1.86,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "odd"
+                        },
+                        {
+                            "outcomeId": 72,
+                            "odds": 1.85,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "even"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 176,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0.5
+                    },
+                    "marketHash": "374f226c8590bcd1000bdc10562bd3cf",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - corner handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.444,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (+0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 2.55,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (-0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 176,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": -0.5
+                    },
+                    "marketHash": "d1c81d5d23bcc791a7bfa58cc53445e5",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - corner handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.92,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (-0.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.78,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (+0.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 176,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": -1.5
+                    },
+                    "marketHash": "f510db96d15e52480826c41d3e6d4930",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - corner handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 2.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (-1.5)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.38,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (+1.5)"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 177,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 3.5
+                    },
+                    "marketHash": "4f0752896c0b17afa9270261c664ee67",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total corners",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.4,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 3.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 3.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 177,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 4.5
+                    },
+                    "marketHash": "ca6c498f3c5009bb31b9554aafaa8f6e",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total corners",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.8,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 4.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.909,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 4.5"
+                        }
+                    ]
+                },
+                {
+                    "marketId": 177,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 5.5
+                    },
+                    "marketHash": "000862c8bd92fa56188a09a6a8beb70b",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1st half - total corners",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 2.5,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 5.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.48,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 5.5"
+                        }
+                    ]
+                }
+            ],
+            "mainMarkets": {
+                "winner": {
+                    "marketId": 1,
+                    "producerId": 3,
+                    "specifiers": [],
+                    "marketHash": "6d7643c28f13c138b5f956e57f9795ec",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "1x2",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1,
+                            "odds": 2.45,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes"
+                        },
+                        {
+                            "outcomeId": 2,
+                            "odds": 3.3,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "draw"
+                        },
+                        {
+                            "outcomeId": 3,
+                            "odds": 2.75,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders"
+                        }
+                    ]
+                },
+                "hcp": {
+                    "marketId": 16,
+                    "producerId": 3,
+                    "specifiers": {
+                        "hcp": 0
+                    },
+                    "marketHash": "e6570c2022a0e3116827c2b8e9629f79",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Handicap",
+                    "outcomes": [
+                        {
+                            "outcomeId": 1714,
+                            "odds": 1.76,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "San Jose Earthquakes (0)"
+                        },
+                        {
+                            "outcomeId": 1715,
+                            "odds": 1.98,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "Seattle Sounders (0)"
+                        }
+                    ]
+                },
+                "total": {
+                    "marketId": 18,
+                    "producerId": 3,
+                    "specifiers": {
+                        "total": 2.5
+                    },
+                    "marketHash": "9aa808d9c8ba8c954a19b07ce897b183",
+                    "status": 1,
+                    "cashoutStatus": null,
+                    "marketName": "Total",
+                    "outcomes": [
+                        {
+                            "outcomeId": 12,
+                            "odds": 1.88,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "over 2.5"
+                        },
+                        {
+                            "outcomeId": 13,
+                            "odds": 1.86,
+                            "prev_odds": null,
+                            "active": 1,
+                            "outcomeName": "under 2.5"
+                        }
+                    ]
+                }
+            }
+        }]
+    }
+}
